@@ -4,7 +4,6 @@ using UnityEngine.UI;
 using UnityEngine.SocialPlatforms.Impl;
 using System;
 using UnityEngine.Events;
-using Unity.Scenes.Editor;
 using System.Diagnostics.CodeAnalysis;
 using Unity.Transforms;
 using NUnit.Framework;
